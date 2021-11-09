@@ -1,4 +1,4 @@
 # Expense Tracker
 
-A flutter project to log daily expenses.
+A flutter app to log and visualize daily expenses.
 
